@@ -25,4 +25,4 @@ jobs:
           
       
       - name: Run main.py
-        run: python main.py -u 16692700595 -p shang98326 -l 244403509 #可编程控制器（西门子）#继电器控制电路装调维修 
+        run: python main.py -u 16692700595 -p shang98326 -l 244403509 #可编程序控制器（西门子）
