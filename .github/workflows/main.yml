@@ -25,4 +25,4 @@ jobs:
           
       
       - name: Run main.py
-        run: python main.py -u 15225987678 -p 16237349333ddd -l 244403509 #可编程序控制器（西门子）
+        run: python main.py -u 15937381207 -p dukeheng123 -l 244403509 # ABB工业机器人操作
