@@ -25,4 +25,4 @@ jobs:
           
       
       - name: Run main.py
-        run: python main.py -u 15225987678 -p 16237349333ddd -l 244403509 # 继电器控制电路装调维修
+        run: python main.py -u 13353676579  -p 20060423nxj.com -l 244403509 # 继电器控制电路装调维修
